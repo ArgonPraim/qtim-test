@@ -1,0 +1,9 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  border-radius: 10px;
+}
+
